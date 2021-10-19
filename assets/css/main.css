@@ -3783,3 +3783,8 @@ input, select, textarea {
 			}
 
 		}
+
+		.circle{
+			border-radius: 50%;
+		  }
+		  
